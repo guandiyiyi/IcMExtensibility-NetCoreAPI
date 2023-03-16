@@ -13,7 +13,8 @@ products:
 # ASP.NET Core API sample for Azure App Service
 
 This is a sample application that you can use to follow along with the tutorial at 
-[Run a RESTful API with CORS in Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-tutorial-rest-api). 
+[Run a RESTful API with CORS in Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-tutorial-rest-api).
+This is a forked version of https://github.com/Azure-Samples/dotnet-core-api, but onboarded to IcM Extensibility Model and trust IcM user token.
 
 ## License
 
